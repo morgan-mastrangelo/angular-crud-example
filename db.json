@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Mango",
-      "quantity": 10,
+      "quantity": 15,
       "price": 350
     },
     {
@@ -23,6 +23,18 @@
       "name": "Banana",
       "quantity": 10,
       "price": 400
+    },
+    {
+      "id": 5,
+      "name": "Pear",
+      "quantity": 24,
+      "price": 729
+    },
+    {
+      "id": 6,
+      "name": "Morgan",
+      "quantity": 5,
+      "price": 456
     }
   ]
 }
